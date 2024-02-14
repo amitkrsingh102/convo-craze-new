@@ -29,19 +29,19 @@ To run the Convo Craze application locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-	git clone https://github.com/amitkrsingh102/convo-craze-new
+git clone https://github.com/amitkrsingh102/convo-craze-new
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-	cd convo-craze
+cd convo-craze
 ```
 
 3. Install dependencies:
 
 ```bash
-	npm install
+npm install
 ```
 
 4. Set up environment variables:
